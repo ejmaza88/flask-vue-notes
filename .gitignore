@@ -1,0 +1,9 @@
+*.pyc
+__pycache__
+.idea
+
+
+node_modules/
+webpack-stats.dev.json
+dev_bundles/
+npm-debug.log
